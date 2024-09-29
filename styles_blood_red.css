@@ -1,0 +1,39 @@
+/* styles_blood_red.css */
+header {
+    background-color: rgba(114,114,114,0.5);
+    font-family: Arial, sans-serif;
+}
+img {
+    border: 2px solid black;
+}
+h1 {
+    color: rgb(189,19,64);
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: rgb(189,19,64);
+    font-family: Arial, sans-serif;
+}
+h3{
+    color: rgb(139,3,39);
+    font-family: Arial, sans-serif;
+}
+li {
+    font-family: Georgia, serif;
+}
+footer {
+    font-family: Georgia, serif;
+    background-color: rgba(114,114,114,0.5);
+    text-align: center;
+}
+.box {
+    padding: 20px;
+    border: 3px double #333;
+    margin: 0px auto;
+    background-color: rgba(114,114,114,0.2);
+}
+.container {
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+    }
